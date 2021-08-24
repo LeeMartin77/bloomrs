@@ -8,7 +8,7 @@ This is just a light wrapper around a rust bloom filter written by much smarter 
 ### Build 
 
 ```
-wasm-pack build
+wasm-pack build --target nodejs
 ```
 
 ### Test 

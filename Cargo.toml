@@ -1,8 +1,9 @@
 [package]
 name = "bloomrs"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["Lee Martin <hello@leejohnmartin.co.uk>"]
 edition = "2018"
+repository = "https://github.com/LeeMartin77/bloomrs"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
